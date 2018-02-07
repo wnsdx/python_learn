@@ -1,3 +1,4 @@
+#coding:utf-8
 """
 用法："python ...\Tools\visitor_edit.py string rootdir?"。
 对SearchVisitor添加一个作为外部子类组分的编辑器自动行为；在遍历过程种
