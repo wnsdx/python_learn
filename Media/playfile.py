@@ -157,7 +157,12 @@ if __name__ == '__main__':                                  #媒体类型已知
 
     #媒体类型猜测完毕
     input('Stop players and press Enter')
-    playfile('ora-lp4e.jpg')                                #图像/jpeg
-    playfile('ora-pp3e.gif')                                #图像/gif
-    playfile('priorcalendar.html')                         #文本/html
-    input('Done')                                             #保持打开,单击关闭
+    # playfile('ora-lp4e.jpg')                                #图像/jpeg
+    # playfile('ora-pp3e.gif')                                #图像/gif
+    # playfile('priorcalendar.html')                          #文本/html
+    # playfile('lp4e-preface-preview.html')                   #文本/html
+    # playfile('lp-code-readme.txt')                          #文本/纯文件
+    # playfile('spam.doc')                                    #程序
+    # playfile('spreadsheet.xls')                             #程序
+    # playfile('sousa.au',wait=True)                          #音频/基本
+    input('Done')                                            #保持打开,单击关闭
